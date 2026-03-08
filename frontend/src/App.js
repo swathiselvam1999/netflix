@@ -82,7 +82,7 @@ function Signin() {
         </div>
 
         <div className="new">
-          <p>New to Netflix? <a href="#">Sign up now.</a></p>
+          <p>New to Netflix?Sign up now.</p>
         </div>
 
         <div className="learnmore">
