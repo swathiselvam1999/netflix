@@ -87,7 +87,7 @@ function Signin() {
 
         <div className="learnmore">
           <p>This page is protected by Google reCAPTCHA to ensure you're not a bot.
-          <a href="#"> Learn more.</a>
+          <a href="/"> Learn more.</a>
           </p>
         </div>
       
