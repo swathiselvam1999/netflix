@@ -1,6 +1,6 @@
 import ReactDOM from 'react-dom/client';
 import './style.css'
-import Signin from './App';
+import Signin from './App.js';
 import Dashboard from './dashboard';
 import {BrowserRouter,Routes,Route} from "react-router-dom"
 
